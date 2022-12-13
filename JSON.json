@@ -1,0 +1,75 @@
+{
+    "homework14": [
+      {
+        "id": "1",
+        "name": "Ангеліна",
+        "city": "Дніпро",
+        "address": {
+          "street": "8го Березня",
+          "buildingNumber": "43",
+          "apartment": 104
+        },
+        "phoneNumbers": [
+          {
+            "number": "+38 050 123 45 67"
+          },
+          {
+            "number": "+38 050 125 53 76"
+          }
+        ],
+        "email": "angie@ukr.net",
+        "skype": "angie_2301"
+      },
+      {
+        "id": "2",
+        "name": "Романа",
+        "city": "Київ",
+        "address": {
+          "street": "Ревуцького",
+          "buildingNumber": "40В",
+          "apartment": 369
+        },
+        "phoneNumbers": [
+          {
+            "number": "+38 095 123 45 67"
+          }
+        ],
+        "email": "ro@gmail.com",
+        "skype": "roManna"
+      },
+      {
+        "id": "3",
+        "name": "Оксана",
+        "city": "Тернопіль",
+        "address": {
+          "street": "Костюшка",
+          "buildingNumber": "34",
+          "apartment": 45
+        },
+        "phoneNumbers": [
+          {
+            "number": "+38 093 768 45 67"
+          }
+        ],
+        "email": "oksi@yahoo.com",
+        "skype": "oxiflowerqueen"
+      },
+      {
+        "id": "4",
+        "name": "Стефанія",
+        "city": "Львів",
+        "address": {
+          "street": "Площа Ринок",
+          "buildingNumber": "15",
+          "apartment": 2
+        },
+        "phoneNumbers": [
+          {
+            "number": "+38 099 123 56 56"
+          }
+        ],
+        "email": "stepha@lv.ua",
+        "skype": "StefaniaMama"
+      }
+    ]
+  }
